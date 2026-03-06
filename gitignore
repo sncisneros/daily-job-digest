@@ -1,0 +1,21 @@
+# Environment variables — never commit these
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+env/
