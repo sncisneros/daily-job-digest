@@ -38,7 +38,7 @@ JOB_TITLES = [
 
 SALARY_MIN = 80000          # Annual minimum in USD
 REQUIRE_SALARY_LISTED = True  # True = skip jobs with no salary info
-LOCATION = "90804"          # Zip code for on-site/hybrid roles
+LOCATION = "San Diego"          # Zip code for on-site/hybrid roles
 DISTANCE_MILES = 25         # Radius around your zip code
 RESULTS_PER_TITLE = 10      # How many results to fetch per title
 DAYS_OLD_MAX = 1            # Only show jobs posted in the last N days
